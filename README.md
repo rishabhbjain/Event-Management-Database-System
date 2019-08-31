@@ -1,1 +1,1 @@
-# EventManagementDatabaseSystem
+# Event Management Database System
